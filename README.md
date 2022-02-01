@@ -14,6 +14,10 @@ in order to install this on your own, simply put put all these files into a fold
 * HTML
 * JavaScript
 
+# RoadMap
+
+Add file swapping to make the pac-men open and close their mouths as they move
+
 # License
 This project is licensed under the MIT License.
 
